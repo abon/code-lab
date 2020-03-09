@@ -1,0 +1,45 @@
+"use strict";
+
+module.exports = {
+  url: "https://lumen.netlify.com",
+  pathPrefix: "/",
+  title: "Blog by Abdulloh Samadov",
+  subtitle: "Get better at what is cool",
+  copyright: "© Developed by @abon",
+  disqusShortname: "",
+  postsPerPage: 4,
+  googleAnalyticsId: "UA-73379983-2",
+  useKatex: false,
+  menu: [
+    {
+      label: "Postlar",
+      path: "/"
+    },
+    {
+      label: "Blog haqida",
+      path: "/pages/about"
+    }
+  ],
+  author: {
+    name: "Abdulloh Samadov",
+    photo: "/dev.svg",
+    bio: " Developer. Freelancer. Blogger 🌱",
+    contacts: {
+      email: "",
+      facebook: "abdullah.samadov",
+      telegram: "abdulloh_samadov",
+      twitter: "iam_abdulloh",
+      github: "abon",
+      rss: "",
+      vkontakte: "",
+      linkedin: "in/samadovabdullah/",
+      instagram: "",
+      line: "",
+      gitlab: "",
+      weibo: "",
+      codepen: "",
+      youtube: "",
+      soundcloud: ""
+    }
+  }
+};
