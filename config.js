@@ -1,10 +1,10 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://www.facebook.com/abdulloh.samadov",
   pathPrefix: "/",
   title: "Blog by Abdulloh Samadov",
-  subtitle: "Get better at what is cool",
+  subtitle: "Get better at what matters",
   copyright: "© Developed by @abon",
   disqusShortname: "",
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
     photo: "/dev.svg",
     bio: " Developer. Freelancer. Blogger 🌱",
     contacts: {
-      email: "",
+      email: "mr.abdullokh@gmai",
       facebook: "abdullah.samadov",
       telegram: "abdulloh_samadov",
       twitter: "iam_abdulloh",
