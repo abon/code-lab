@@ -25,7 +25,7 @@ module.exports = {
     photo: "/dev.svg",
     bio: " Developer. Freelancer. Blogger 🌱",
     contacts: {
-      email: "mr.abdullokh@gmai",
+      email: "mr.abdullokh@gmail.com",
       facebook: "abdullah.samadov",
       telegram: "abdulloh_samadov",
       twitter: "iam_abdulloh",
