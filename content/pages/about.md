@@ -16,7 +16,7 @@ Bu blog orqali sizga hozirgi kundagi eng aktual va ommalashgan dasturlash tillar
 
 
 
-Biz sizga doimo yordam berishga doimo tayyormiz. Agar sizda biz ko'pincha chop qilmaydigan dasturlash tillari yoki sohaga oid    qiziqish yoki biror ma'lumot  bo'lib,uni o'zbek tiliga tarjima qilish zarurati bo'lsa , biz uni sizga  **BEPUL** tarjima qilib beramiz. Katta hajmdagi ma'lumotlar masalan kitob yoki shunga o'xshash materiallar bundan mustasno. 
+Biz sizga yordam berishga doimo tayyormiz. Agar sizda biz ko'pincha chop qilmaydigan dasturlash tillari yoki sohaga oid    qiziqish yoki biror ma'lumot  bo'lib,uni o'zbek tiliga tarjima qilish zarurati bo'lsa , biz uni sizga  **BEPUL** tarjima qilib beramiz. Katta hajmdagi ma'lumotlar masalan kitob yoki shunga o'xshash materiallar bundan mustasno. 
 
 Blog sizga manzur bo'ladi degan umiddamiz, rahmat.
 
