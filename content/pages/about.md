@@ -7,7 +7,7 @@ socialImage: "/media/image-2.png"
 Assalom alaykum. Mazkur blogga kirishingizni o'zi sizda dasturlash sohasida alohida qiziqish va uni o'rganish uchun kuchli ishonch va g'ayrat borligini bildiradi. Bu bilan sizni tabriklashga ijozat bergaysiz!
 
 
-![Blogimizga xush kelibsiz!!!](/public/media/image-2.png)
+![Blogimizga xush kelibsiz!!!](/media/image-2.png)
 
 
 Blog maqsadi o'zbek-zabon yurtdoshlarimiz uchun dasturlash sohasida o'zbek kontentini kuchaytirish va uni qo'llab-quvvatlashdan iborat. 
