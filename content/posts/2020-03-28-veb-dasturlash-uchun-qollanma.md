@@ -2,7 +2,7 @@
 template: post
 title: Veb dasturlash uchun qo'llanma
 slug: guide-to-web-development
-draft: true
+draft: false
 date: 2020-03-28T19:58:06.524Z
 description: Veb dasturlashni yangi boshlovchilari uchun qo'llanma
 category: 'web '
