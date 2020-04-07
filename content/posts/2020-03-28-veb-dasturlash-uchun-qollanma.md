@@ -5,7 +5,7 @@ slug: frontend-dev-guide
 draft: false
 date: 2020-03-28T19:58:06.524Z
 description: >-
-  Boshlovchilar uchun Fronend dasturchilikni boshlash uchun barcha kerakli
+  Boshlovchilar uchun Frontend dasturchilikni boshlash uchun barcha kerakli
   ko'satma va instrumentlar.
 category: 'web '
 tags:
