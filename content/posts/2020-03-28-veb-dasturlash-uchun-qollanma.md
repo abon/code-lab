@@ -1,12 +1,12 @@
 ---
 template: post
-title: 'Veb dasturlash uchun qo''llanma. 1-Qism: Frontend'
+title: ' Web dasturlash uchun qo''llanma. 1-Qism: Frontend'
 slug: frontend-dev-guide
 draft: false
 date: 2020-03-28T19:58:06.524Z
 description: >-
-  Fronend dasturchilikni boshlash uchun barcha kerakli ko'satma va
-  instrumentlar.
+  Boshlovchilar uchun Fronend dasturchilikni boshlash uchun barcha kerakli
+  ko'satma va instrumentlar.
 category: 'web '
 tags:
   - web
