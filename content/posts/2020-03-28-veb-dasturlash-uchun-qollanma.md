@@ -1,6 +1,6 @@
 ---
 template: post
-title: Veb dasturlash uchun qo'llanma
+title: 'Veb dasturlash uchun qo''llanma. Birinchi qism: Frontend'
 slug: guide-to-web-development
 draft: false
 date: 2020-03-28T19:58:06.524Z
