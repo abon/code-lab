@@ -1,10 +1,12 @@
 ---
 template: post
-title: 'Veb dasturlash uchun qo''llanma. Birinchi qism: Frontend'
+title: 'Veb dasturlash uchun qo''llanma. 1-Qism: Frontend'
 slug: guide-to-web-development
 draft: false
 date: 2020-03-28T19:58:06.524Z
-description: Veb dasturlashni yangi boshlovchilari uchun qo'llanma
+description: >-
+  Fronend dasturchilikni boshlash uchun barcha kerakli ko'satma va
+  instrumentlar.
 category: 'web '
 tags:
   - web
