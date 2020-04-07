@@ -1,7 +1,7 @@
 ---
 template: post
 title: 'Veb dasturlash uchun qo''llanma. 1-Qism: Frontend'
-slug: guide-to-web-development
+slug: frontend-dev-guide
 draft: false
 date: 2020-03-28T19:58:06.524Z
 description: >-
