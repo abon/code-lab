@@ -9,7 +9,7 @@ description: >-
   ko'satma va instrumentlar.
 category: web
 tags:
-  - web
+  - web backend
 ---
 > Ushbu post web dasturlashni yangi boshlovchilar uchun mo'ljallangan postlarning ikkinchi qismi. Birinchi qism bilan [bu yerda tanishing](https://www.abdulloh.codes/posts/frontend-dev-guide).
 
