@@ -7,7 +7,7 @@ date: 2020-04-08T11:44:36.604Z
 description: >-
   Boshlovchilar uchun Backend dasturchilikni boshlash uchun barcha kerakli
   ko'satma va instrumentlar.
-category: web
+category: backend
 tags:
   - web backend
 ---
