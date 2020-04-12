@@ -1,6 +1,8 @@
 ---
 template: post
-title: '3-QISM: Web dasturlash uchun shart bo''lgan 6ta unstrument va platformalar'
+title: >-
+  Web dasturlash uchun qo'llanma: 3-Qism:  Shart Bo'lgan Instrument va
+  Platformalar: 
 slug: web-dev-tools
 draft: false
 date: 2020-04-12T18:34:27.211Z
