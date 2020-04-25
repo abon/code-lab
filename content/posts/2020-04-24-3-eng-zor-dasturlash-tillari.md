@@ -38,9 +38,9 @@ Bu **Python**, **JavaScript** va **Java** bir necha tadqiqotlar davomida eng yax
 ```
 num = int(input("Sonni juft yoki toq ekanini bilish uchun kiriting: "))
 if (num % 2) == 0:
-   print("{0} is Juft".format(num))
+   print("{0}  Juft".format(num))
 else:
-   print("{0} is Toq".format(num))
+   print("{0} Toq".format(num))
 ```
 
 Python uchun yangi bo'lganlar uchun ushbu sintaksis boshqa dasturlash tillaridan farqli ravishda ko'rinishini ko'rasiz. Hech qanday jingalak qavslar, sinflar yo'q va ommaviy / xususiy modifikatorlar mavjud emas. Bu juda sodda va tartibli. Bu Python-ning ishlab chiquvchilarga juda yoqadigan sabablaridan biridir. Endi yuqorida ko'rsatilgan dasturning natijalarini ko'rib chiqaylik.
