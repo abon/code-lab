@@ -13,7 +13,7 @@ tags:
 ---
 ![top prog langs](/media/1.jpeg "foto: medium")
 
-Dastlabki o'rganuvchi dasturchi sifatida o'rganish uchun eng yaxshi uchta dasturlash tillarini ko'rib chiqish uchun yaxshi vaqt. Faoliyatim davomida men bir nechta dasturlash tillaridan foydalanganman va ularni ko'p o'gartirganman. 
+Dastlabki o'rganuvchi dasturchi sifatida o'rganish uchun eng yaxshi uchta dasturlash tillarini ko'rib chiqish uchun yaxshi vaqt. Faoliyatim davomida men bir nechta dasturlash tillaridan foydalanganman va ularni ko'p o'zgartirganman. 
 
 📊 **Google**ning tendentsiyalari bo'yicha eng zo'r dasturlash tillari bo'yicha ma'lumoti boshlovchi dasturchilar uchun ayni muddao bo'ladi.
 
@@ -64,7 +64,7 @@ Python nima uchun bugungi kunda eng yaxshi dasturlash tillaridan biri sifatida r
 * Ma'lumot olimlari (data scientist) tomonidan keng qo'llaniladi
 * Katta Python jamiyati
 
-#### 🙅‍♂️ Nega Python emas?  
+#### 🙅‍♂️ Nega Python emas?
 
 Python shu qadar rivojlantiruvchi va ommabop, lekin har doim har bir dasturlash tilida ba'zi kamchiliklar mavjud. Python nima uchun yaxshi tanlov bo'lmasligi mumkinligi ro'yxati:
 
@@ -76,13 +76,9 @@ Python shu qadar rivojlantiruvchi va ommabop, lekin har doim har bir dasturlash 
 
 ![java](/media/5.jpeg "foto: medium")
 
-
-
 Keyingi eng yaxshi dasturlash tili - bu **[Java](https://www.java.com/en/)**. Java - eng ko'p ishlatiladigan dasturlash tillaridan biri bo'lib, u 2020 yilda o'rganish uchun mukammal til bo'ladi.
 
 > AQShda Java ishlab chiqaruvchisining o'rtacha ish haqi **yiliga** $103,464 tashkil etadi.
-
-
 
 Karyeramni boshida men korxonalar dasturiy ta'minoti uchun juda ko'p Java kodini yozdim. Java keng ko'lamli dasturiy ilovalarda keng qo'llaniladi.
 
@@ -132,8 +128,6 @@ Keyinchalik 2020 yilda o'rganish uchun dasturlashning keyingi eng yaxshi tili bu
 
 > AQShda JavaScript dasturchilarining o'rtacha ish haqi **yiliga** @113,615 tashkil etadi
 
-
-
 📈 [StackOverflow tomonidan o'tkazilgan so'rovnomada](https://insights.stackoverflow.com/survey/2019#technology) ettinchi yil ketma-ket JavaScript eng mashhur dasturlash tili sifatida birinchi o'rinni egallab turibdi.
 
 ![js](/media/7.png "foto: medium")
@@ -154,8 +148,6 @@ function buJuft(num) {
 }
 ```
 
-
-
 #### 💁🏻‍♂️ Nima uchun JavaScript?
 
 Sizda JavaScript-ni 2020 yilda o'rganishingiz kerak bo'lgan ko'plab sabablar mavjud. Quyida ulardan ba'zilari keltirilgan:
@@ -166,20 +158,13 @@ Sizda JavaScript-ni 2020 yilda o'rganishingiz kerak bo'lgan ko'plab sabablar mav
 * 🏙 **Ish imkoniyatlari** - JavaScript ishlab chiquvchilariga jahon bozorida talab katta. Google, Facebook, Uber va boshqalar singari Fortune 500 kompaniyalari JavaScript-ni rivojlantirishga katta miqdordagi sarmoyalarni jalb qiladilar va shu bilan JavaScript bozorida ko'plab ish imkoniyatlarini yaratadilar.
 * ✌🏻**Ikkala Frontend va Backend Development** - Shunisi e'tiborga loyiqki, JavaScript-ning tashqi ko'rinishini yaratish sahnasida hukmronlik qilsa-da, lekin Node.js kabi ramkadan foydalanib, backendni yaratishda juda ko'p ishlatiladi. Bu shuni anglatadiki, zamonaviy JavaScript bilan siz frontend va backend fonda ishlab chiquvchi bo'lishingiz mumkin.
 * 🚅 **Tezlik** - JavaScript dasturlari juda tez ishlaydi, chunki barcha kodlar mijoz (client) tomonida ishlaydi.
-
-
-
 * #### 🙅🏻‍♂️ Nima uchun JavaScript emas?
 
   * 😓**Tez o'zgaradi -** Bu sizning nuqtai nazaringizga qarab kamchiligi yoki yutug'i deb hisoblanishi mumkin. JavaScript va uning asoslari jadal rivojlanmoqda va bugungi kunda JavaScript uch yil avvalgidan farq qiladi. Doimiy o'zgarish shundan dalolat beradiki, unda ko'p sonli kuchlar va jamoatchilik ishtirok etmoqda. Ammo bu bilan davom ettirish uchun qo'rqitish ham mumkin.
   * 🔐 **Xavfsizlik muammolari -** JavaScript kodi mijoz tomonidan bajariladi va odatda kod ochiladi. Shunday qilib, agar ishlab chiqish jarayonida eng yaxshi amaliyotlar qo'llanilmasa, bu ba'zi xavfsizlik buzilishlariga olib kelishi mumkin.
 
-
-
 ![done](/media/undraw_done_a34v.png "undraw")
 
-###### ☘ Agar siz ushbu blog postdan foyda olgan bo'lsangiz, iltimos, ushbu post do'stlaringiz bilan baham ko'ring. 
-
-
+###### ☘ Agar siz ushbu blog postdan foyda olgan bo'lsangiz, iltimos, ushbu post do'stlaringiz bilan baham ko'ring.
 
 🔖 *Post [ushbu havoladan ](https://medium.com/@codewithmosh/top-3-programming-languages-to-learn-in-2020-cb3c53d32ec9)tarjima qilindi.*
