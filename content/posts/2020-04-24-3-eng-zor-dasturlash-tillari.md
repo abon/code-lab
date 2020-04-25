@@ -15,7 +15,7 @@ tags:
 
 Dastlabki o'rganuvchi dasturchi sifatida o'rganish uchun eng yaxshi uchta dasturlash tillarini ko'rib chiqish uchun yaxshi vaqt. Faoliyatim davomida men bir nechta dasturlash tillaridan foydalanganman va ularni ko'p o'zgartirganman. 
 
-📊 **Google**ning tendentsiyalari bo'yicha eng zo'r dasturlash tillari bo'yicha ma'lumoti boshlovchi dasturchilar uchun ayni muddao bo'ladi.
+📊 **Google**ning tendentsiyalari asosidagi eng zo'r dasturlash tillari bo'yicha ma'lumoti boshlovchi dasturchilar uchun ayni muddao bo'ladi.
 
 ![google pic](/media/2.png "foto: google")
 
