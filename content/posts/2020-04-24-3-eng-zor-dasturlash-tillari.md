@@ -84,7 +84,7 @@ Karyeramni boshida men korxonalar dasturiy ta'minoti uchun juda ko'p Java kodini
 
 #### Keling, ba'zi Java kodini ko'rib chiqaylik
 
-Endi Python-dan Java-da foydalanib, oldin yozgan dasturimizni yozaylik. Dastur foydalanuvchining kirishini oladi va raqam top yoki juftligini tekshiradi.
+Endi Python-dan Java-da foydalanib, oldin yozgan dasturimizni yozaylik. Dastur foydalanuvchining kirishini oladi va raqam toq yoki juftligini tekshiradi.
 
 ```
 import java.util.Scanner;
@@ -101,7 +101,7 @@ public class ToqJuft {
 }
 ```
 
-E'tibor bering, sintaksis Python-dan mutlaqo farq qiladi. Bu erda biz sinf, ommaviy / shaxsiy kirish, skaner va boshqalar kabi tushunchalarni taqdim etdik. Java dasturlari Python kabi tillarga qaraganda ancha strukturaga boy tuzilgan. Java-dagi hamma narsa sinf yoki interfeys ichida bo'lishi kerak.
+E'tibor bering, sintaksis Python-dan mutlaqo farq qiladi. Bu yerda biz sinf, ommaviy / shaxsiy kirish, skaner va boshqalar kabi tushunchalarni taqdim etdik. Java dasturlari Python kabi tillarga qaraganda ancha strukturaga boy tuzilgan. Java-dagi hamma narsa sinf yoki interfeys ichida bo'lishi kerak.
 
 #### ️️️️💁🏻‍♂️ ️Nima uchun Java?️
 
@@ -158,13 +158,18 @@ Sizda JavaScript-ni 2020 yilda o'rganishingiz kerak bo'lgan ko'plab sabablar mav
 * 🏙 **Ish imkoniyatlari** - JavaScript ishlab chiquvchilariga jahon bozorida talab katta. Google, Facebook, Uber va boshqalar singari Fortune 500 kompaniyalari JavaScript-ni rivojlantirishga katta miqdordagi sarmoyalarni jalb qiladilar va shu bilan JavaScript bozorida ko'plab ish imkoniyatlarini yaratadilar.
 * ✌🏻**Ikkala Frontend va Backend Development** - Shunisi e'tiborga loyiqki, JavaScript-ning tashqi ko'rinishini yaratish sahnasida hukmronlik qilsa-da, lekin Node.js kabi ramkadan foydalanib, backendni yaratishda juda ko'p ishlatiladi. Bu shuni anglatadiki, zamonaviy JavaScript bilan siz frontend va backend fonda ishlab chiquvchi bo'lishingiz mumkin.
 * 🚅 **Tezlik** - JavaScript dasturlari juda tez ishlaydi, chunki barcha kodlar mijoz (client) tomonida ishlaydi.
-* #### 🙅🏻‍♂️ Nima uchun JavaScript emas?
 
-  * 😓**Tez o'zgaradi -** Bu sizning nuqtai nazaringizga qarab kamchiligi yoki yutug'i deb hisoblanishi mumkin. JavaScript va uning asoslari jadal rivojlanmoqda va bugungi kunda JavaScript uch yil avvalgidan farq qiladi. Doimiy o'zgarish shundan dalolat beradiki, unda ko'p sonli kuchlar va jamoatchilik ishtirok etmoqda. Ammo bu bilan davom ettirish uchun qo'rqitish ham mumkin.
-  * 🔐 **Xavfsizlik muammolari -** JavaScript kodi mijoz tomonidan bajariladi va odatda kod ochiladi. Shunday qilib, agar ishlab chiqish jarayonida eng yaxshi amaliyotlar qo'llanilmasa, bu ba'zi xavfsizlik buzilishlariga olib kelishi mumkin.
+#### 🙅🏻‍♂️ Nima uchun JavaScript emas?
+
+* 😓**Tez o'zgaradi -** Bu sizning nuqtai nazaringizga qarab kamchiligi yoki yutug'i deb hisoblanishi mumkin. JavaScript va uning asoslari jadal rivojlanmoqda va bugungi kunda JavaScript uch yil avvalgidan farq qiladi. Doimiy o'zgarish shundan dalolat beradiki, unda ko'p sonli kuchlar va jamoatchilik ishtirok etmoqda. Ammo bu bilan davom ettirish uchun qo'rqitish ham mumkin.
+* 🔐 **Xavfsizlik muammolari -** JavaScript kodi mijoz tomonidan bajariladi va odatda kod ochiladi. Shunday qilib, agar ishlab chiqish jarayonida eng yaxshi amaliyotlar qo'llanilmasa, bu ba'zi xavfsizlik buzilishlariga olib kelishi mumkin.
+
+
+
+🤓  **Agar siz ushbu blog postdan foyda olgan bo'lsangiz, iltimos, ushbu post do'stlaringiz bilan baham ko'ring.**
 
 ![done](/media/undraw_done_a34v.png "undraw")
 
-###### ☘ Agar siz ushbu blog postdan foyda olgan bo'lsangiz, iltimos, ushbu post do'stlaringiz bilan baham ko'ring.
+
 
 🔖 *Post [ushbu havoladan ](https://medium.com/@codewithmosh/top-3-programming-languages-to-learn-in-2020-cb3c53d32ec9)tarjima qilindi.*
