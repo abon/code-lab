@@ -2,7 +2,7 @@
 template: post
 title: >-
   4 oylik mustaqil o'qishdan so'ng Dasturiy Ta'minot Muhandisligi amaliyotiga
-  qanday o'tdim
+  qanday o'tdim ?
 slug: how-i-got-internship
 draft: false
 date: 2020-06-01T08:27:59.845Z
