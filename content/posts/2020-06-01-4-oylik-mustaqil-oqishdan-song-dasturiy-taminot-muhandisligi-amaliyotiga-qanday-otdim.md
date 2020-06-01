@@ -31,7 +31,7 @@ Ularning ikkalasi ham tushuntirishlarni iloji boricha sodda tarzda taqdim etadil
 
 > **⚠ Eslatma**: Samarali o'qish uchun qaysi rollarga murojaat qilishni xohlayotganingizni bilish muhimdir. Masalan, agar siz frontend bo'yicha amaliyotni o'tamoqchi bo'lsangiz, freeCodeCamp-da web dasturlash kursi ayniqsa foydali bo'ladi. Ushbu qo'llanma ham asosan front-end haqida.
 
-#### Men nima qildim: 
+#### Men nima qildim:
 
 Shaxsan, men har doim front-end bilan ish;ashga ko'proq qiziqish bildirganman. Web dasturchilar uchun JavaScript, HTML va CSS-ni chuqur bilish shubhasiz eng muhim narsadir.
 
@@ -57,11 +57,11 @@ Tugatganingizdan so'ng, uni sinab ko'ring va boshlang'ich kodini [Github](https:
 
 1. Minesweeper kabi turli xil kichik o'yinlar, ularning barchasi React yordamida yaratilgan va CSS bilan dizayn qilingan.
 2. Javascript va Mapbox yordamida yaratilgan yarim milliondan ortiq trafik ma'lumotlarini vizualizatsiya qilish uchun xarita.
-3.  Heroku-da joylashgan Node.js va Mongoose-da amalga oshirilgan dastur yordamida foydalanuvchilarga eng yaxshi rasmlarini namoyish etishlariga imkon beradigan ishlaydigan React Native ilovasi.
+3. Heroku-da joylashgan Node.js va Mongoose-da amalga oshirilgan dastur yordamida foydalanuvchilarga eng yaxshi rasmlarini namoyish etishlariga imkon beradigan ishlaydigan React Native ilovasi.
 
 ![project](/media/1_b_qxjqoqfdttopvrd9kl3g.png "project")
 
-#### 👨‍💻3-qadam: Ishlarga murojaat qilish 
+#### 👨‍💻3-qadam: Ishlarga murojaat qilish
 
 Men bu sohada eng ko'p tajribaga egaman, chunki juda ko'p ish joylariga murojaat qilganman. Ish qidirish va suhbatlar jarayoni bilan bog'liq eng yaxshi maslahatlar:
 
@@ -82,7 +82,7 @@ Ammo, ular juda ko'p taniqli bo'lganligi sababli, siz intervyuda aynan shu savol
 
 ❗ Yana bir narsani ta'kidlash kerak: men intervyu bergan kompaniyalar mening loyihalarimni tez-tez ko'rib chiqishdi va amalga oshirish bo'yicha texnik savollar berishdi. Agar siz o'zingizning loyihalaringiz haqida yolg'on gapirgan bo'lsangiz, bu ularning sinov usulidir, shuning uchun bunga tayyor bo'ling.
 
-#### 💁🏻‍♂️Men nima qildim: 
+#### 💁🏻‍♂️Men nima qildim:
 
 Boshlash uchun: intervyu berish kerak. Men birinchi bo'lganlarimni butunlay chalkashtirib yubordim. Eslab qolishga ham uyalaman. 
 
@@ -102,9 +102,7 @@ Mening 2 tsentim: Amaliyot ochilishini sinab ko'rish va topish naqadar dahshatli
 
 ![board](/media/4.png "board")
 
-
-
-#### 💡Xulosa 
+#### 💡Xulosa
 
 Birinchi ish / stajirovkangizni topish uzoq, asabiy va zerikarli jarayon bo'lishi mumkin. Biroq, siz haqiqiy ish joyidan olgan tajribangiz uni mutlaqo arziydi. 
 
@@ -112,4 +110,4 @@ Men yaxshilanishga intilaman va har qanday mulohazalarni kutib qolaman. Men keyi
 
 ![undraw](/media/undraw_done_a34v.png "foto: undraw")
 
-*Ushbu post [asl nusxasi ](https://medium.com/free-code-camp/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f)orqali tarjima qilindi.*
+*[Ushbu postdan](https://medium.com/free-code-camp/how-i-got-my-software-engineering-internship-after-4-months-of-self-study-5b5c4836bd6f) tarjima qilindi.*
