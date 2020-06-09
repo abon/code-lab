@@ -34,7 +34,7 @@ Onlayn o'rganish uchun eng yaxshi joylardan biri. Siz Java, Spring, Ma'lumotlar 
 
 Pulli manbalar ham juda arzon va ularni tez-tez bo'lib turadigan flesh-sotiq paytida atigi 9,99 dollarga sotib olishingiz mumkin. Bu Colt_Steele, Rob Percival, Stiven Grider, Josh Portilla, Jon Purcell va boshqalar kabi mohir "domla"lar bilan to'la.
 
-## 3. [Educative.io](https://www.educative.io/?affiliate_id=5073518643380224)
+## 3. [Educative.io](educative.io)
 
 ![foto: educative](/media/600_473043653.jpeg "foto: educative")
 
