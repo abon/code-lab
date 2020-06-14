@@ -2,7 +2,7 @@
 template: post
 title: Havaskor dasturchilar aniq nimani bilishi kerak?
 slug: what-to-learn-first
-draft: true
+draft: false
 date: 2020-06-14T14:57:20.903Z
 description: >-
   Dasturlashni endi boshlagan havaskorlar nimalarga e'tibor berishlari kerak va
