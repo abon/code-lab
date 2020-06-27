@@ -3,7 +3,7 @@ template: post
 title: >-
   Qanday qilib Mozilla bilan Outreachy orqali masofaviy va haq to'lanadigan
   amaliyotni o'tadim ?
-slug: internship-in-mozilla
+slug: internship-at-mozilla
 draft: false
 date: 2020-06-26T23:18:49.985Z
 description: >-
