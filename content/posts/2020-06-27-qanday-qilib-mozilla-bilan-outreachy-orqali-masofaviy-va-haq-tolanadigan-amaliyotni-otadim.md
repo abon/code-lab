@@ -43,21 +43,15 @@ Ushbu amaliyotning eng yaxshi tomoni shundaki, u masofaviy va satjyorlar o'zlari
 
 Ko'plab orzusi texnologiya kompaniyalari o'z loyihalari bilan o'rtoqlashadi va ularga murabbiylik qilish va eng dasturchilar bilan ishlash imkoniyatini berish uchun stajerlarni qabul qilishadi. Mozilla, Debian, Git, GNOME, Kubernetes va OpenStack bularning ba'zilari.
 
-
-
 ### Qanday qilib men Mozilla-da amaliyotni yutib oldim ?
 
 Bu erda Outreachy-ga murojaat qilish jarayoni va men buni qanday boshdan kechirganim.
-
-
 
 #### 1. Dastlabki ariza
 
 Hisob qaydnomasini yaratgandan so'ng, men dastlabki ariza topdim. Siz ba'zi ma'lumotlarni taqdim etasiz va ular keyingi bosqichga qatnashuvchini qabul qilish yoki rad etish to'g'risida qaror qabul qilishadi. Ushbu shaklda siz ismingiz, jinsingiz, mamlakatingiz, shaharingiz va eng muhimi, amaliyot paytida sizning faol bo'lishingiz kabi ma'lumotlarni taqdim etasiz.
 
 Stajyorlar uchun haftada 40 soatni tashkil etadigan amaliyotda kun davomida to'liq online bo'lishini talab qiladi. Men bitta talabgor keyingi bosqichga chiqa olmasligini bildim, chunki u kun davomida shu ish bilan mashg'ul bo'lmagan. Shunday qilib, birinchi qadam mezonlar bo'yicha saralangan nomzodlarni filtrlashdir. Men loyihani tanlash va hissa qo'shishni boshlaydigan keyingi bosqichga o'tdim.
-
-
 
 ### 2. Loyihani tanlash va hissa qo'shish
 
@@ -70,8 +64,6 @@ Aha! Bu eng muhim qadam va jarayonning biroz qiyin qismi. Noto'g'ri tanlov tanlo
 Har bir loyiha va kompaniyani ko'rib chiqish, tafsilotlarni o'qish va hech narsani eslamaslik va shu bilan barchasini chalkashtirib yuborish. 
 
 Siz har bir loyihaning tafsilotlarini o'qishingiz va ko'rishingiz va boshqasidan boshqasiga o'tishingiz shart emas. Bu sizning vaqtingiz va kuchingizni sarflaydi.
-
-
 
 ### 👌 Tanlashning to'g'ri usuli:
 
@@ -98,3 +90,59 @@ Raqobat shiddatli, odamlar dunyoning turli burchaklaridan bir necha marta ishtir
 Men hech qachon biron bir loyihaga hissa qo'shmagan edim, Pull Request nima ekanligini va uni qanday amalga oshirish kerakligini ham bilmasdim. Aslida, men ariza berish jarayonida hamma narsani o'rganib oldim.
 
 Men bitta muammoning belgilanmaganligini topdim va echim bilan Pull Request-ni ochdim. Mening ustozlarim boshqa vaqt zonasida edilar, shuning uchun ular uyg'onishdan oldin Pull Request ochdim va javobni kutib uxlay olmadim. PRga javob olguncha soat 3 gacha turdim. Va ajablanib, bu ...
+
+![](/media/1_dwhvdddjqydi7rmaqej3kg.png)
+
+va ...
+
+![](/media/1_ng7lrp8vuz875nrgmefzpa.jpeg)
+
+
+
+Men qanchalik baxtli bo'lganimni tasavvur qila olmaysiz. Men o'zimni uchib ketayotgandek his qilardim, xuddi osmon uzra ko'tarilib ketayotgan Supermen kabi. Qisqasi, men 7-osmonda edim!
+
+Ammo men ko'proq muammolarni hal qilish uchun tushishim kerak edi. Bu menga katta ishonch bag'ishladi va men o'z hissamni to'xtatmadim. Arizalarni topshirishning oxirgi sanasiga qadar, menda 6 ta Pull Request birlashtirildi. Men oxirgi arizamni topshirdim va keyinchalik o'z hissamni qo'shdim.
+
+Outreachy natijalarni e'lon qilishidan oldin, menda jami 10 ta tortish so'rovi bor edi, bu meni ushbu loyihaga yanada kuchli da'vogarga aylantirdi.
+
+### Natijalar e'lon qilinishi
+
+Natijalarni kutish qiyin edi. Men sabrsizlik bilan yangilik olish uchun kunlarni hisoblardim. Ishonch va umid bilan, asabiylik ham bor edi. Qabul qilish yangiliklari umidsizlik va o'rganish sayohati havosidagi salqin shabada edi. Men hayajonlangan va baxtli edim. Mozilla kompaniyasida yer yuzidagi eng yaxshi ishlab chiquvchilar bilan ish olib borish va sinov dasturlarini tayyorlashning uzoq safariga yetdim.
+
+Men ko'proq o'rganish haqida tasavvur qilishni to'xtata olmadim va keyingi bir necha oy ichida yana bir ajoyib dasturchi bo'ldim. Va keyin Mozilla-dan MacBook Pro-ni olish haqidagi xabar pirojniydagi gilos kabi edi. Men allaqachon HP notbukimni yoqtirmay boshladim. :-D
+
+Va nihoyat, men hozirda dunyoning eng yaxshi texnologik kompaniyalaridan birida ustozlar bilan real loyihada ishlash orqali yana bir o'rganish safarini boshlamoqchiman. Mening amaliyotim 2018 yil 4-dekabrdan boshlanadi. Men juda hayajondaman va uni boshlashni kuta olmayapman. Men o'rganishga va undan maksimal darajada foydalanishga umid qilaman.
+
+### Nima uchun Mozilla ?
+
+Mozilla-dagi stajyorlar stipendiya va sayohatlardan tashqari yana uchta imtiyozga ega bo'lishadi, bu esa amaliyotni yanada qiziqarli qiladi.
+
+1. Mozilla-ning barcha stajyorlari eng so'nggi xususiyatlarga ega bo'lgan MacBook Pro-ni olishadi.
+
+   Mening MacBook Pro bir necha kun ichida quyidagi xususiyatlar bilan keladi:
+
+   * *2.9GHz 6-core 8th-generation Intel Core i9 processor, Turbo Boost up to 4.8GHz*
+   * 32GB 2400MHz DDR4 memory
+   * Radeon Pro 560X with 4GB of GDDR5 memory + Intel UHD Graphics
+   * 512GB or 1TB PCIe-based Flash Storage
+   * Touch Bar
+2. Mozilla All Hands-ga taklifnoma - bu kompaniyaning barcha xodimlari o'z hamkasblari bilan shaxsan uchrashish, tajriba almashish va odatda uchrasha olmaydigan odamlar bilan muloqot qilish uchun taklif qilinadigan tadbir. Stajirovkalar boshqa xodimlar, ko'ngillilar va ayniqsa loyihaning ustozlari bilan uchrashish imkoniyatiga ega bo'ladilar.
+3. Barcha Mozilla stajyorlari LDA yorliqlarini olishadi, bu ularda rasmiy Mozilla elektron pochta identifikatori - username@mozilla.org bo'ladi.
+
+### Outreachy-da g'alaba qozonish uchun donolik nuggetlari
+
+Mening tajribam va kuzatishlarimdan kelib chiqqan holda, ushbu imkoniyatdan foydalanishga olib kelgan narsalar, men sizga buni taklif qilaman:
+
+* Har bir qo'rquvni, ishonchsizlikni yoki ishonchsizlikning bir daqiqasini orqada qoldiring va unga sakrab chiqing. Maslahat uchun murojaat qiling, hissa qo'shing, o'rganing, savol bering, masalani hal qilishga harakat qiling. Agar siz birinchi urinishda uni to'g'rilamasangiz, yaxshi bo'ladi - siz fikr-mulohaza bildirasiz va uni 2-3-chi yoki 4-urinishda qilishingiz mumkin. Oxir-oqibat, muammolarni o'rganish - necha marta xato qilganingizni emas.
+* Bir yoki ikkita hissa qo'shganingizdan so'ng, o'zingizni haddan tashqari bajargan his qilmang. Iloji boricha ko'p masalalarni hal qilishga harakat qiling. Siz o'z natijangizni topguningizcha, belgilangan muddatdan keyin ham o'z hissangizni qo'shishda davom eting. Bu menga ko'p yordam berdi. Bu mening ustozlarim o'quvchi, ishtiyoqmand va faol ishtirokchi ekanligimni anglab etdi va ular buni doimo qadrlashdi. Shuning uchun sizga o'z hissangizni qo'shishni maslahat beraman.
+* Agar ular oddiy bo'lsa ham, savol berishdan qo'rqmang. Bitta masala bo'yicha men ustozimdan juda ko'p savollar berdim, lekin u barchasiga javob berishga tayyor edi. Shunday bo'lsa-da, shaxsiy izlanishdan keyin so'rashingizga ishonch hosil qiling. Tasodifiy savollarni tashqariga tashlamang. Agar biror narsa sizga tushunarli bo'lmasa, so'rang. So'rang. So'rang. So'rang.
+* Raqobatchilaringizga e'tibor bering. Men har kuni loyihaning repo-dasturiga necha yangi murojaat etuvchilar muammolarni yechishga urinayotganlarini tekshirish uchun tashrif buyurardim. Qancha PRlar ochildi va kim mening eng katta raqibim bo'ladi. Agar yangi ariza beruvchi paydo bo'lganida,yuragim qattiq urar edi va meni to'xtamasligimga yordam berardi.
+* Imkon qadar erta boshlang. Axborot byulleteniga yoziling. Agar siz erta boshlasangiz, sizga topshirilmagan oson xatolar juda ko'p bo'ladi. Sizda loyihani tushunish va ko'pgina masalalarni hal qilish uchun yaxshi imkoniyat bo'ladi. Talabnomani ko'rib chiqish jarayoni uzoq va ko'p vaqt talab etadi, uni bir yoki ikki hafta ichida qila olmaysiz.
+* Loyiha ustozi bilan ishlang.. Ularning sizni unutishiga yo'l qo'ymang. Hissa qo'shing, xatolarni hal qiling va savollarni bering.
+* Eng muhimi: Men allaqachon Mozilla Noutbuk va All Hands uchrashuviga taklif qilganini bilgan edim, lekin men Mozilla loyihasiga ushbu ikki narsa uchun murojaat qilmadim. Men murojaat qildim, chunki ro'yxatdagi barcha loyihalar ichida JavaScript va React talab qiladigan bir nechta loyihalar bor edi - va men faqat 2 ta loyihani biroz tushunishim mumkin edi. Va ulardan biri Mozilladan edi.
+
+  Sizning asosiy maqsadingiz har qanday tashkilotda amaliyot o'tash, bilim olish, o'rganish va yaxshi kelajakka yo'l ochishdir. Bir nechta tanlov tufayli bitta kompaniyani tanlamang. Siz yaxshi loyihani yo'qotib, sizning turingizga tegishli bo'lmagan boshqa loyihalarga qarshi boshingizni egasiz. Agar chindan ham u erda yaxshi ishlay olaman deb o'ylasangiz, loyihani tanlang.
+* Bitta loyihaga e'tibor qarating va unga eng yaxshi narsalarni bering. Agar sizning loyihangizda boshqa muammolar bo'lmasa, ustozlaringizdan sizni boshqa biron bir loyiha berishlarini so'rang. Bu mening holatimda yuz berdi.
+* Natija haqida unuting. Agar siz stajirovkada g'olib bo'lmasangiz, juda ko'p narsalarni bilib olasiz. Siz bir necha ustozlarni va ochilgan sayohat uchun boshlang'ichni olasiz. Bir paytlar men amaliyotda g'olib bo'lmasam ham, loyihaga o'z hissamni qo'shishga qaror qildim. Chunki bu jarayon davomida olgan bilimlarim so'nggi bir necha oy ichida demo loyihalarda ishlagan narsalarim bilan taqqoslanganda juda katta edi.
+
+Hah! Aytadigan gapim ko'p. Keyingi maqola uchun boshqa narsalarni saqlashim kerak. Mozilla-da amaliyotni boshlaganimdan xursandman. Va men yangi boshlanuvchilarni Outreachy dasturiga ariza topshirishga da'vat etaman. Siz katta dasturchi bo'lishingiz shart emas - shunchaki ajoyib o'rganishingiz kerak.
