@@ -4,7 +4,7 @@ title: >-
   Qanday qilib Mozilla bilan Outreachy orqali masofaviy va haq to'lanadigan
   amaliyotni o'tadim ?
 slug: internship-in-mozilla
-draft: true
+draft: false
 date: 2020-06-26T23:18:49.985Z
 description: >-
   Havaskor dasturchilar uchun dunyoning eng kuchli IT kompaniyalarida amaliyot
@@ -145,4 +145,18 @@ Mening tajribam va kuzatishlarimdan kelib chiqqan holda, ushbu imkoniyatdan foyd
 * Bitta loyihaga e'tibor qarating va unga eng yaxshi narsalarni bering. Agar sizning loyihangizda boshqa muammolar bo'lmasa, ustozlaringizdan sizni boshqa biron bir loyiha berishlarini so'rang. Bu mening holatimda yuz berdi.
 * Natija haqida unuting. Agar siz stajirovkada g'olib bo'lmasangiz, juda ko'p narsalarni bilib olasiz. Siz bir necha ustozlarni va ochilgan sayohat uchun boshlang'ichni olasiz. Bir paytlar men amaliyotda g'olib bo'lmasam ham, loyihaga o'z hissamni qo'shishga qaror qildim. Chunki bu jarayon davomida olgan bilimlarim so'nggi bir necha oy ichida demo loyihalarda ishlagan narsalarim bilan taqqoslanganda juda katta edi.
 
-Hah! Aytadigan gapim ko'p. Keyingi maqola uchun boshqa narsalarni saqlashim kerak. Mozilla-da amaliyotni boshlaganimdan xursandman. Va men yangi boshlanuvchilarni Outreachy dasturiga ariza topshirishga da'vat etaman. Siz katta dasturchi bo'lishingiz shart emas - shunchaki ajoyib o'rganishingiz kerak.
+Hah! Aytadigan gapim ko'p. Keyingi maqola uchun boshqa narsalarni saqlashim kerak. Mozilla-da amaliyotni boshlaganimdan xursandman. Va men yangi boshlanuvchilarni Outreachy dasturiga ariza topshirishga chaqirin qolamlamaetaman. Siz katta dasturchi bo'lishingiz shart emas - shunchaki tirishqoq o'rganishingiz kerak.
+
+
+
+### Eslab Qoling !
+
+```
+"Odamlar hayotlarida istagan paytda xohlagan narsalarini amalga oshirishga qodir". -Alximik
+```
+
+
+
+![](/media/undraw_done_a34v.png)
+
+Maqola ushbu [asl nusxasi](https://medium.com/free-code-camp/how-i-got-a-remote-paid-internship-at-mozilla-through-outreachy-60958fe9264a) orqali tarjima qilindi.
