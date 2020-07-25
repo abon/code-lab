@@ -2,7 +2,7 @@
 template: post
 title: Dasturlashni yanada samarali o'rganish bo'yicha maslahatlar
 slug: learn-better-ways
-draft: true
+draft: false
 date: 2020-07-25T20:23:28.042Z
 description: Dasturlashni o'rganish bu qanday o'rganishni o'rganishdir
 category: tips
@@ -69,4 +69,16 @@ Bizning sog'ligimiz - vaqt va boylikni qanday qilib qurishimiz mumkinligining as
 
 Siz odatdagidek uxlashdan mahrum bo'lganda, noxush ovqat eyishni boshlaysiz va muntazam ravishda jismoniy mashqlar qilishni to'xtatsangiz, bu nafaqat stress darajasini oshiradi, balki sizning IQ darajangizni pasayishiga va sizni charchatishingizga olib keladi. Shuning uchun men o'qish vaqti kelganida qattiq o'qishni, shuningdek, dam olishni va do'stlaringiz va oilangiz bilan dam olishni xohlagan vaqtingizda dam olishni afzal ko'raman. Bu ishdagi ish balansini saqlashga yordam beradi (Izoh: bu jamiyat ishontirgan ish-hayot balansi emas, baribir sizning hayotingiz birinchi o'rinda turadi! 🙂)
 
-i
+
+
+[🖊 Ushbu maqola](https://medium.com/better-programming/tips-to-learn-programming-more-effectively-8be86122acd8) orqali o'zbek tiliga tarjima qilindi.
+
+✅ **Agar ushbu maqola sizga yoqqan bo'lsa, uni do'stlaringiz bilan baham ko'ring !**
+
+**Bizning manzillarimiz: 👇**
+
+📲Telegram:  https://t.me/abdullohcodes
+
+💻 https://www.abdulloh.codes/
+
+![](/media/undraw_complete_task_u2c3.png)
